@@ -27,7 +27,7 @@ Perform an end-to-end analysis putting into practice what you have learned so fa
 
 ## Dataset
 
-In this project, you will use the provided [**fifa21_male2.csv**](https://github.com/ironhack-edu/data_mid_bootcamp_project_FIFA_MoneyBall/blob/master/fifa21_male2.csv) dataset.
+In this project, you will use the provided [**fifa21_male2.csv**](https://github.com/ta-data-pt-rmt/project-fifa-moneyball/blob/main/fifa21_male2.csv) dataset.
 
 Details about the dataset can be found here as well [https://www.kaggle.com/ekrembayar/fifa-21-complete-player-dataset?select=fifa21_male2.csv]
 
