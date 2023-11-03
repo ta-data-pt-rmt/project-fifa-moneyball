@@ -31,7 +31,7 @@ In this project, you will use the provided [fifa23_players_dataset](https://gith
 
 Details about the dataset can be found here as well [kaggle description](https://www.kaggle.com/datasets/sanjeetsinghnaik/fifa-23-players-dataset/)
 
-In case you want to find more information on how each column relates to a player, take a look at this website [fifa index website](https://www.fifaindex.com/player/252371/jude-bellingham/fifa24/)
+In case you want to find more information on how each column relates to a player, take a look at this website [sofifa website](https://sofifa.com/player/252371)
 
 This data set includes:
 
