@@ -27,13 +27,13 @@ Perform an end-to-end analysis putting into practice what you have learned so fa
 
 ## Dataset
 
-In this project, you will use the provided [**fifa21_male2.csv**](https://github.com/ta-data-pt-rmt/project-fifa-moneyball/blob/main/fifa21_male2.csv) dataset.
+In this project, you will use the provided [**fifa23_players_dataset**](https://github.com/ta-data-pt-rmt/project-fifa-moneyball/blob/main/fifa21_male2.csv) dataset.
 
 Details about the dataset can be found here as well [https://www.kaggle.com/ekrembayar/fifa-21-complete-player-dataset?select=fifa21_male2.csv]
 
 This data set includes:
 
-1. **EA Sports FIFA 19 Game** data:
+1. **EA Sports FIFA 23 Game** data:
 
 - Player Name
 - Club of the Player
@@ -56,12 +56,8 @@ This data set includes:
 - Day of Contract End
 - Market Value of the Player
 
-3. **Instagram and Facebook** data by player:
 
-- Number of followers on Instagram
-- Number of likes on Facebook of the club in which the player has a contract
-
-4. **ESPN FC** data from the past 5 years performance of each player
+3. **ESPN FC** data from the past 5 years performance of each player
 
 - **GS:** Games Started
 - **SB:** Games Substituted
@@ -79,7 +75,7 @@ This data set includes:
 - You **must plan your project.** Creating a Kanban or using [Trello](https://trello.com/) or a similar app for a digital board is mandatory.
 - You **CAN'T CODE** until your project is planned.
 - Create a `*.gitignore*` file and include it in your repository.
-- You should include a linear regression question(s) on the data.
+- As an optional you can include a linear regression as a way to answer question(s) on the data.
 
 ## Deliverables
 
