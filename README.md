@@ -27,7 +27,7 @@ Perform an end-to-end analysis putting into practice what you have learned so fa
 
 ## Dataset
 
-In this project, you will use the provided [fifa23_players_dataset](https://github.com/ta-data-pt-rmt/project-fifa-moneyball/blob/main/Fifa 23 Players Data.csv.zip) dataset.
+In this project, you will use the provided [fifa23_players_dataset](https://github.com/ta-data-pt-rmt/project-fifa-moneyball/blob/main/fifa_23_male.zip) dataset.
 
 Details about the dataset can be found here as well [kaggle description](https://www.kaggle.com/datasets/sanjeetsinghnaik/fifa-23-players-dataset/)
 
