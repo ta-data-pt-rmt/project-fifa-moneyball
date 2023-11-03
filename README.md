@@ -27,9 +27,11 @@ Perform an end-to-end analysis putting into practice what you have learned so fa
 
 ## Dataset
 
-In this project, you will use the provided [**fifa23_players_dataset**](https://github.com/ta-data-pt-rmt/project-fifa-moneyball/blob/main/fifa21_male2.csv) dataset.
+In this project, you will use the provided [**fifa23_players_dataset**](https://github.com/ta-data-pt-rmt/project-fifa-moneyball/blob/main/Fifa 23 Players Data.csv.zip) dataset.
 
-Details about the dataset can be found here as well [https://www.kaggle.com/ekrembayar/fifa-21-complete-player-dataset?select=fifa21_male2.csv]
+Details about the dataset can be found here as well [https://www.kaggle.com/datasets/sanjeetsinghnaik/fifa-23-players-dataset/]
+
+In case you want to find more information on how each column relates to a player, take a look at this website [https://www.fifaindex.com/player/252371/jude-bellingham/fifa24/]
 
 This data set includes:
 
